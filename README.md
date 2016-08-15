@@ -12,7 +12,7 @@ Directory: [problem(Algorithms=al, Database=db, Shell=sh]_[number]/
 File: [language]_[unique username].extension
 
 ### Example
-* al_380/swift_yoobato.swift or al_380/swift_yoobato.playground
+* al_380/swift_yoobato.swift
 * db_181/mysql_yoobato.sql
 * sh_193/bash_yoobato.sh
 
