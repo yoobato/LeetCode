@@ -7,11 +7,13 @@ Just make a commit and push your solution source, and if you find some improveme
 then fix it!
 
 ## Filename rules
-[problem(Algorithms=al, Database=db, Shell=sh]_[number]_[language].extension
+Directory: [problem(Algorithms=al, Database=db, Shell=sh]_[number]/
+
+File: [language]_[unique username].extension
 
 ### Example
-* al_380_swift.swift or al_380_swift.playground
-* db_181_mysql.sql
-* sh_193_bash.sh
+* al_380/swift_yoobato.swift or al_380/swift_yoobato.playground
+* db_181/mysql_yoobato.sql
+* sh_193/bash_yoobato.sh
 
 Please include a problem link comments in your source code so that other people can check easily! :D
